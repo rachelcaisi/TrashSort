@@ -1,0 +1,6 @@
+10% 800 words => 1 hour
+20% 400 words -> 1h 4min 21s
+5% 1200 words -> 19min 52s
+
+
+Switching to minibatch Kmeans sees a big improvement in time taken
